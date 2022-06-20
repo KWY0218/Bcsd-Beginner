@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">Bcsd</string>
+    <string name="app_name">BCSD</string>
+    <string name="main_start">START</string>
+    <string name="main_pause">PAUSE</string>
+    <string name="main_stop">STOP</string>
+    <string name="main_lap">LAP</string>
+    <string name="main_div1">.</string>
+    <string name="main_div2">:</string>
+    <string name="main_zero">00</string>
 </resources>
